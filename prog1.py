@@ -1,4 +1,5 @@
 from array import *
+print("My first Git Repository!")
 
 arr1=array('i',[5,28,9,8,7])
 arr2=array('i',[2,3,4,5,6])
